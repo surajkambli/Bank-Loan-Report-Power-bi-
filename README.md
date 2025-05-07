@@ -28,6 +28,8 @@ Bad Loan Application Percentage <br />
 Bad Loan Applications <br />
 Bad Loan Funded Amount <br />
 Bad Loan Total Received Amount <br />
+<br />
+
 
 
 
