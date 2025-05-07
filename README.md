@@ -25,7 +25,21 @@ Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-ter
 5.Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements. <br />
 6.Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' <br />
 
-![image](https://github.com/user-attachments/assets/35303a00-c45e-4985-97c8-ff40a0277e81)
+Good Loan v Bad Loan KPI’s <br />
+
+Good Loan: <br />
+Good Loan Application Percentage<br />
+Good Loan Applications<br />
+Good Loan Funded Amount<br />
+Good Loan Total Received Amount<br />
+
+Bad Loan <br />
+Bad Loan Application Percentage <br />
+Bad Loan Applications <br />
+Bad Loan Funded Amount <br />
+Bad Loan Total Received Amount <br />
+
+
 
 
 
