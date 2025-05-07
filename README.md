@@ -43,6 +43,15 @@ Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-ter
 4.Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing. <br />
 5.Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements. <br />
 6.Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' <br />
+<br />
+Dashboard 2 <br />
+GRID<br />
+Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.<br />
+<br />
+Objective:<br />
+The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.<br />
+
+
 
 
 
