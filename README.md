@@ -6,7 +6,7 @@ Dashboard ![bank Loan report image](https://github.com/user-attachments/assets/8
 
 ## Problem Statement <br />
 
-Dasboard 1 overview <br />
+Page 1 overview <br />
 Key Performance Indicators (KPIs) Requirements: <br />
 Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).<br />
 Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.<br />
@@ -34,7 +34,7 @@ Bad Loan Total Received Amount <br />
 
 
 
-Dashboard 2 <br />
+Page 2 <br />
 CHARTS <br />
 Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-term trends in lending activities <br />
 1.Regional Analysis by State (Filled Map): To identify regions with significant lending activity and assess regional disparities <br />
@@ -44,7 +44,7 @@ Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-ter
 5.Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements. <br />
 6.Metrics to be shown: 'Total Loan Applications,' 'Total Funded Amount,' and 'Total Amount Received' <br />
 <br />
-Dashboard 2 <br />
+Page 3 2 <br />
 GRID<br />
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.<br />
 <br />
