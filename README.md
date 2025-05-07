@@ -4,7 +4,17 @@ Repository Structure
 - <a href= "https://app.powerbi.com/groups/me/reports/beec656b-0907-41a7-913e-e65f2a2e72fe/ae950f3706f2829b0861?experience=power-bi" > Click here to view Report </a>" <br />
 Dashboard ![bank Loan report image](https://github.com/user-attachments/assets/8f37568f-3832-415f-b6fa-476c8efb9b57) <br />
 
-# Problem Statement <br />
+## Problem Statement <br />
+
+Key Performance Indicators (KPIs) Requirements: <br />
+Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).<br />
+Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.<br />
+Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) <br />
+Total Amount Received and observe the Month-over-Month (MoM) changes.<br />
+Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations in interest rates will provide insights into our lending portfolio's overall cost.<br />
+Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.<br />
+
+
 Dasboard 2 overview <br />
 CHARTS <br />
 Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-term trends in lending activities <br />
